@@ -1,0 +1,7 @@
+{
+    "calculate_square": {
+        "description": "Calculates the square of a number.",
+        "code": "def calculate_square(number):\n    return number ** 2",
+        "parameters": ["number"]
+    }
+}
